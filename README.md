@@ -18,6 +18,8 @@
 - 想让别人快速了解你问题，最好的方式是代码，减少无意义的文字描述，准确描述你问题的关键，同时也是锻炼你表达问题，思考问题的能力，很多时候你解决问题就在你思考如何问问题的过程中。
 
 ## 值得持续关注的网站
+
+### 文档博客相关
 1. https://codepen.io/   有你想要的所有炫酷小组件
 2. https://stackoverflow.com/ 
 3. http://liubin.org/promises-book/   JavaScript Promise迷你书（中文版）
