@@ -26,6 +26,8 @@
 6. https://www.v2ex.com/  一个程序员的论坛
 7. https://what-is-fe.gitee.io/  前端知识体系汇总
 8. https://indepth.dev/  深度学习 Angular/JS/React
+9. https://trac.webkit.org/browser/webkit?order=name   chrome内核webkit源码
+10. https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#The_browsers_we_will_talk_about  浏览器工作原理最有深度的一篇文章
 
 ## 以后会在这里不定期分享一些好的文章资源
 > 欢迎你们也分享你觉得又意思的东西，让更多小伙伴看到..
