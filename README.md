@@ -33,6 +33,7 @@
 9. https://indepth.dev/  深度学习 Angular/JS/React
 10. https://trac.webkit.org/browser/webkit?order=name   chrome内核webkit源码
 11. https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#The_browsers_we_will_talk_about  浏览器工作原理最有深度的一篇文章
+12. https://docs.microsoft.com/zh-cn/microsoft-edge/devtools-guide-chromium/  dev-tools 文档
 
 ### 面试相关
 > 📚 tips : 面试文章繁多，这几篇够了-2021年前端面试 一站式方案
