@@ -33,13 +33,13 @@
 ### 面试相关👋
 > 📚tips : 面试文章繁多，这几篇够了-2021年前端面试 一站式方案
 
-1.https://juejin.cn/post/6930897845369356295  VUE 面试问题 30+ 
-2.https://juejin.cn/post/6934500357091360781  JS基础篇
-3.https://juejin.cn/post/6936913689115099143  CSS篇
-4.https://juejin.cn/post/6947842412102287373  算法篇
-5.https://juejin.cn/post/6939691851746279437  计网篇
-6.https://juejin.cn/post/6947863151761162276  简历技巧
-7.https://juejin.cn/post/6931150126069055496  面试经验分享
+1.https://juejin.cn/post/6930897845369356295    VUE 面试问题 30+ 
+2.https://juejin.cn/post/6934500357091360781   JS基础篇
+3.https://juejin.cn/post/6936913689115099143    CSS篇
+4.https://juejin.cn/post/6947842412102287373    算法篇
+5.https://juejin.cn/post/6939691851746279437    计网篇
+6.https://juejin.cn/post/6947863151761162276    简历技巧
+7.https://juejin.cn/post/6931150126069055496    面试经验分享
 
 ## 以后会在这里不定期分享一些好的文章资源
 > 欢迎你们也分享你觉得又意思的东西，让更多小伙伴看到..💬
