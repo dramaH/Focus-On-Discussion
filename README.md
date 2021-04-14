@@ -19,15 +19,27 @@
 
 ## 值得持续关注的网站
 1. https://codepen.io/   有你想要的所有炫酷小组件
-2. http://liubin.org/promises-book/   JavaScript Promise迷你书（中文版）
-3. https://github.com/sl1673495/blogs/issues/37   前端高级进阶指南
-4. https://ts.xcatliu.com/    TypeScript 入门教程一篇就够了
-5. https://cn.rx.js.org/manual/overview.html  RXJS 中文文档
-6. https://www.v2ex.com/  一个程序员的论坛
-7. https://what-is-fe.gitee.io/  前端知识体系汇总
-8. https://indepth.dev/  深度学习 Angular/JS/React
-9. https://trac.webkit.org/browser/webkit?order=name   chrome内核webkit源码
-10. https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#The_browsers_we_will_talk_about  浏览器工作原理最有深度的一篇文章
+2. https://stackoverflow.com/ 
+3. http://liubin.org/promises-book/   JavaScript Promise迷你书（中文版）
+4. https://github.com/sl1673495/blogs/issues/37   前端高级进阶指南
+5. https://ts.xcatliu.com/    TypeScript 入门教程一篇就够了
+6. https://cn.rx.js.org/manual/overview.html  RXJS 中文文档
+7. https://www.v2ex.com/  一个程序员的论坛
+8. https://what-is-fe.gitee.io/  前端知识体系汇总
+9. https://indepth.dev/  深度学习 Angular/JS/React
+10. https://trac.webkit.org/browser/webkit?order=name   chrome内核webkit源码
+11. https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#The_browsers_we_will_talk_about  浏览器工作原理最有深度的一篇文章
+
+### 面试相关👋
+> 📚tips : 面试文章繁多，这几篇够了-2021年前端面试 一站式方案
+
+1.https://juejin.cn/post/6930897845369356295  VUE 面试问题 30+ 
+2.https://juejin.cn/post/6934500357091360781  JS基础篇
+3.https://juejin.cn/post/6936913689115099143  CSS篇
+4.https://juejin.cn/post/6947842412102287373  算法篇
+5.https://juejin.cn/post/6939691851746279437  计网篇
+6.https://juejin.cn/post/6947863151761162276  简历技巧
+7.https://juejin.cn/post/6931150126069055496  面试经验分享
 
 ## 以后会在这里不定期分享一些好的文章资源
-> 欢迎你们也分享你觉得又意思的东西，让更多小伙伴看到..
+> 欢迎你们也分享你觉得又意思的东西，让更多小伙伴看到..💬
