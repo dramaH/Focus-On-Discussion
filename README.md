@@ -58,8 +58,8 @@
 1.https://juejin.cn/post/6922641008106668045    Vue.js 九个高级性能优化技巧
 
 
-
-
+### vue项目架构模板，及开发规范 ***
+https://github.com/dramaH/vue-cli-template
 
 
 ## 以后会在这里不定期分享一些好的文章资源
